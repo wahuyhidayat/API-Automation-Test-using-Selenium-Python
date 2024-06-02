@@ -4,7 +4,7 @@ This project implements automated testing for APIs using Python and pytest. It i
 ## Getting Started
 To enjoy the automated tests, develop the framework or adapt it to your own purpose, just download the project or clone repository.
 Here are the things that need to be prepared before conducting testing:
-1. Download and install [python](https://www.python.org/downloads/)
+1. Install [python](https://www.python.org/downloads/)
 2. Install [pip](https://pypi.org/project/pip/)
 3. Install [selenium](https://pypi.org/project/selenium/)
 4. Install [pytest](https://pypi.org/project/pytest/)
