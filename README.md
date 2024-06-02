@@ -28,4 +28,4 @@ To run the tests, simply use the following command:
 pytest -v
 ```
 ## Test Result
-The testing will automatically generate a report in HTML format saved as [report_api_automation.html](https://drive.google.com/drive/folders/1UI7dX8KJgB1t__hFFz3vQR-D_VErtO3J?usp=sharing). You can open this report in a browser to view detailed test results.
+The testing will automatically generate a report in HTML format saved as [report_api_automation.html](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/report_api_automation.html). You can open this report in a browser to view detailed test results.
