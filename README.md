@@ -29,4 +29,3 @@ pytest -v
 ```
 ## Test Result
 The testing will automatically generate a report in HTML format saved as [report_api_automation.html](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/report_api_automation.html). You can open this report in a browser to view detailed test results.
-<iframe src="https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/report_api_automation.html" width="800" height="600"></iframe>
