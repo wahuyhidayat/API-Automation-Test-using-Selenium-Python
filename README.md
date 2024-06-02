@@ -15,7 +15,7 @@ Here are the things that need to be prepared before conducting testing:
 Here you can find a short description of the main directories and it's content.
 - [api/user_api.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/api/user_api.py): Contains the UserAPI class with methods for creating, reading, updating, and deleting users.
 - [tests/conftest.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/conftest.py): Contains pytest fixtures used to set up testing data.
-- [tests/test_get_user.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/test_get_user.py): Contains the main testing scenarios for HTTP methods.
+- [tests/test_get_user.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/test_get_user.py): Contains the main testing scenarios for HTTP GET methods.
 - [tests/test_post_user.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/test_post_user.py): Contains the main testing scenarios for HTTP POST methods.
 - [tests/test_put_user.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/test_put_user.py): Contains the main testing scenarios for HTTP PUT methods.
 - [tests/test_delete_user.py](https://github.com/wahuyhidayat/API-Automation-Test-using-Selenium-Python/blob/main/tests/test_delete_user.py): Contains the main testing scenarios for HTTP DELETE methods.
